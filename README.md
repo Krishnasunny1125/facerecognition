@@ -1,4 +1,4 @@
-# facerecognition using vision transformers
+# Facerecognition using vision transformers
 This project is a part of an intelligent **"Follow Me" drone system** that uses a **Vision Transformer (ViT)** model to recognize a specific individual from a custom face dataset and autonomously follow them in real time.
 ##  Project Objective
 
