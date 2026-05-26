@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Model weights & checkpoints
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Dataset (large files — don't commit raw data)
+dataset/
+data/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+
+# Output plots
+*.png
+training_history.png
+confusion_matrix.png
+evaluation_curves.png
+
+# Haar Cascade (auto-downloaded)
+haarcascade_frontalface_default.xml
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle
+/kaggle/
